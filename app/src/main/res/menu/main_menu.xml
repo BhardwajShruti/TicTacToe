@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <menu xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Reset" android:orderInCategory="1" android:id="@+id/reset"/>
+
+    <item android:title="Demo" android:id="@+id/demo" app:showAsAction="always"/>
+
+    <item android:title="Settings" android:orderInCategory="10" android:id="@+id/settings"/>
+
+</menu>
